@@ -14,25 +14,25 @@ Primite 1.03 (1,800 Adaptrons) demonstrates:
 •	Memory Formation & Recall: memories of stimuli and self-generated thoughts, recalled across short, intermediate, and long-term spans.
 •	Anticipation: outputs appear before the corresponding input stimulus is presented.
 
-Reports & Outputs
+Reports & Outputs:
 •	Technical Report: Primite 1.03 (PDF)
 •	Experimental Outputs (Timestamped)
 •	Prior Report: Primite 1.02 (Memory & Original Thought)
 All outputs are raw and timestamped  for independent verification.
 
-Methodology Overview
+Methodology Overview:
 •	No machine learning or gradient descent.
 •	Only fundamental neuron-like rules are preprogrammed.
 •	Behavior emerges from interactions and genetic parameters (configurations controlling adaptability).
 •	One control experiment set system as a pure input-output machine → no higher functions emerged, confirming adaptability is key.
 
-Live Demos
+Live Demos:
 We are open to external verification via live demos: reviewers choose inputs, observe outputs in real time, and confirm activity. For deeper reviews (e.g., genetic parameters), NDAs may be required.
 
-How to Use This Repo
+How to Use This Repo:
 •	Browse reports/ for detailed technical documentation.
 •	Explore outputs/ for raw timestamped results.
 
-About JN Research
+About JN Research:
 JN Research is pioneering Adaptronics - a new substrate for artificial cognition that is neither mechanistic neuroscience nor it is traditional AI, using Principle-first approach. Our systems show early signs of higher cognitive functions, memory, and creativity, moving beyond today’s statistical AI toward scalable machine cognition.
 www.jn-research.com
