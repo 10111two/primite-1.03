@@ -30,8 +30,9 @@ Live Demos:
 We are open to external verification via live demos: reviewers choose inputs, observe outputs in real time, and confirm activity. For deeper reviews (e.g., genetic parameters), NDAs may be required.  
 
 How to Use This Repo:  
-•	Browse reports/ for detailed technical documentation.  
-•	Explore outputs/ for raw timestamped results.  
+•	Browse reports for detailed technical documentation.  
+•	Explore inputs/outputs for raw timestamped results using the following link:  
+https://drive.google.com/drive/folders/1mRhj1Gn3y5PLJM_GUd-mV5Vy-111A8Pr
 
 About JN Research:  
 JN Research is pioneering Adaptronics - a new substrate for artificial cognition that is neither mechanistic neuroscience nor it is traditional AI, using Principle-first approach. Our systems show early signs of higher cognitive functions, memory, and creativity, moving beyond today’s statistical AI toward scalable machine cognition.  
